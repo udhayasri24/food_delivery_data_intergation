@@ -24,7 +24,7 @@ The goal of this project is to combine multiple datasets (orders and users) into
 
 * Python
 * Pandas
-* google colab
+* jupyter Notebook
 
 ---
 
