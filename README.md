@@ -2,32 +2,23 @@ Food Delivery Insights Engine
 
 **Turning raw orders into smart business insights.**
 
- What this project does
-
+1. What this project does
 * Connects **orders + users** into one smart dataset
 * Reveals **who buys, what they buy, and when they buy**
 * Finds top cities, peak quarters, and winning cuisine–membership combos
 
- Built with
-
+2. Built with
 * Python • Pandas • Jupyter Notebook
 
- Files
+3. Files
+1.food_delivery_data_integration.ipynb
+2.orders.csv
+3.users.csv
 
+4. Run it
+1.git clone <your-repo-link>
+2.pip install pandas jupyter
+3.jupyter notebook food_delivery_data_integration.ipynb
 
-food_delivery_data_integration.ipynb
-orders.csv
-users.csv
-
-
- Run it
-
-bash
-git clone <your-repo-link>
-pip install pandas jupyter
-jupyter notebook food_delivery_data_integration.ipynb
-
-
- Why it matters
-
+5. Why it matters
 Better decisions through cleaner data, smarter analysis, and clear insights
